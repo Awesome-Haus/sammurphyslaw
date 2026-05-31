@@ -47,13 +47,14 @@ body {
   overflow-x: hidden;
 }
 
-/* Bodoni Moda: enable common + discretionary ligatures wherever the display serif is used */
+/* Bodoni Moda: force the ligature features the face carries
+   (liga/clig = standard fi-fl-ff, dlig = discretionary, calt = contextual) */
 .wordmark,
 .hero__new,
 .band p,
 .sec-head h2,
 .foot__law {
-  font-variant-ligatures: common-ligatures discretionary-ligatures contextual;
+  font-feature-settings: "liga" 1, "clig" 1, "dlig" 1, "calt" 1;
 }
 
 /* very soft sun glow, top-center — subtle, not a gradient wash */

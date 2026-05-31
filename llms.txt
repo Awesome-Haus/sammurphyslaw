@@ -194,7 +194,7 @@ You never run out of things that can go well. While you are reading this, someth
 ## Changelog
 
 - v2.5.1 — Reality over truth, and a refinement pass. War and Technology laws re-pointed toward present-tense execution and agency; three new oddities reclaimed — power corrupts incompetently, success loops, reality outranks truth; the Decree sharpened to strike Murphy's Law down by name; and the display serif gets its ligatures.
-- v2.5.0 — Two new books — Of War & the grown Of Technology — and a reshelving. Combat reclaimed toward camaraderie, the trade's cynicisms reclaimed forty-deep, and the canon reordered (The Corollaries, Of Love, Of Sex, Of War, Of Technology, Oddities Made Even, The Commentaries, The Decree). Byline set to Robert "Sam" Murphy.
+- v2.5.0 — Two new books — Of War & Of Technology — and a reshelving. Combat reclaimed toward camaraderie, the trade's cynicisms reclaimed forty-deep, and the canon reordered (The Corollaries, Of Love, Of Sex, Of War, Of Technology, Oddities Made Even, The Commentaries, The Decree). Byline set to Robert "Sam" Murphy.
 - v2.4.2 — Four new corollaries: good takes any window, a fifth way presents itself, Mother Nature is our Mother, and fools are so not ingenious.
 - v2.4.1 — Of Love: money gets you a great stable "foundation" now, not just a "position" — something to build on, not just stand on.
 - v2.4.0 — Of Sex, The Commentaries, and the Decree. The canon turns to the body and to Hill's counsel — and closes: all that is unreclaimed, struck in toto et in perpetuum.
