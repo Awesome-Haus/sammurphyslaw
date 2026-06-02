@@ -247,6 +247,9 @@ a { color: inherit; }
   vertical-align: -0.04em;
   opacity: 0;
 }
+
+/* keep the final word + blinking cursor from orphaning onto a new line */
+.nobreak { white-space: nowrap; }
 .in .caret {
   animation: blink 0.9s steps(1) 1.5s 4, fadeCaret 0.2s linear 5.1s forwards;
 }
@@ -437,6 +440,59 @@ a { color: inherit; }
 .law.in .law__caret {
   animation: blink 0.85s steps(1) 1.3s 3, fadeCaret 0.2s linear 4s forwards;
 }
+
+/* ------------------------------------------------ "show more" (oversized book) */
+.laws__more {
+  margin-top: clamp(18px, 3vh, 30px);
+  display: flex;
+  justify-content: center;
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+.laws__more.in { opacity: 1; transform: none; }
+
+.more-btn {
+  font-family: var(--mono);
+  font-size: 0.74rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--sun-deep);
+  background: color-mix(in oklch, var(--sun) 10%, var(--panel));
+  border: 1px solid color-mix(in oklch, var(--sun) 45%, var(--line));
+  border-radius: 999px;
+  padding: 0.75em 1.5em;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.7em;
+  cursor: pointer;
+  transition: border-color 0.25s ease, background 0.25s ease, box-shadow 0.25s ease;
+}
+.more-btn:hover {
+  border-color: color-mix(in oklch, var(--sun) 70%, var(--line));
+  background: color-mix(in oklch, var(--sun) 18%, var(--panel));
+  box-shadow: 0 12px 32px -24px oklch(0.55 0.12 60 / 0.9);
+}
+.more-btn:focus-visible { outline: 2px solid var(--sun-deep); outline-offset: 3px; }
+
+/* chevron drawn from borders — points down when collapsed, up when open */
+.more-btn__ico {
+  width: 0.62em;
+  height: 0.62em;
+  border-right: 1.6px solid currentColor;
+  border-bottom: 1.6px solid currentColor;
+  transform: translateY(-0.12em) rotate(45deg);
+  transition: transform 0.3s ease;
+}
+.more-btn[aria-expanded="true"] .more-btn__ico {
+  transform: translateY(0.06em) rotate(-135deg);
+}
+
+/* Collapse the overflow laws — only when JS is live (progressive enhancement). */
+.js .laws--collapsible.is-collapsed .law--more { display: none; }
+/* No-JS / failed-JS: every law shows; the toggle is meaningless, so hide it. */
+html:not(.js) .laws__more { display: none; }
 
 /* ============================================================ changelog */
 .changelog {

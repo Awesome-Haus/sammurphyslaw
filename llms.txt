@@ -1,186 +1,190 @@
 # Murphy's Law
 
-> The optimist's rewrite of Murphy's Law. The family name, reclaimed from a century of pessimism by Robert "Sam" Murphy and rectified in the spirit of wellness. The central tenet: **anything that can go wrong, will go well.** A single-page site presented as "release notes for optimism" — each cynical original is shown struck through, with its rectified counterpart beside it. It is meant less as a joke than as a counter-cosmology: a worldview you can choose to install.
+> The optimist's rewrite of Murphy's Law. The family name, reclaimed from a century of pessimism by Robert "Sam" Murphy and rectified in the spirit of wellness. The central tenet: **everything that can go wrong, will go well.** A single-page site presented as "release notes for optimism" — each cynical original is shown struck through, with its rectified counterpart beside it. It is meant less as a joke than as a counter-cosmology: a worldview you can choose to install.
 
 - **Author / steward:** Robert "Sam" Murphy (github.com/rcmjr)
 - **Canonical URL:** https://realmurphyslaw.com
-- **Current version:** v2.6.0
+- **Current version:** v3.0.0
 - **Premise:** Murphy is as Murphy does. The only sensible reading of the evidence is that things tend to go well.
+- **Format:** throughout, each law is shown as — original -> rectified.
 
 ## The Law
 
 Original: Anything that can go wrong, will go wrong.
-Rectified: Anything that can go wrong, will go well.
+Rectified: Everything that can go wrong, will go well.
 
 ## The Corollaries
 
-Each original rectified from its cynicism (shown as original -> rectified):
+The physics of the rectified world — left to itself, everything trends upward.
 
 1. Left to themselves, things tend to go from bad to worse. -> Left to themselves, things tend to go from well to awesome.
-2. If several things can go wrong, the most damaging one goes wrong first. -> If several things can go well, the most helpful one goes well first.
-3. Nature always sides with the hidden flaw. -> Nature always sides with the hidden advantage.
+2. If everything seems to be going well, you have obviously overlooked something. -> If everything seems to be going well, you have obviously nailed something.
+3. If several things can go wrong, the most damaging one goes wrong first. -> If several things can go well, the most helpful one goes well first.
 4. Whenever you set out to do something, something else must be done first. -> Whenever you set out to do something, nothing else must be done first.
-5. Every solution breeds new problems. -> Every real solution beats new problems.
-6. It always takes longer than you expect. -> It always takes less time than you expect.
-7. The buttered side always lands face down. -> The buttered side always lands face up.
-8. Everything is black and white and red all over. -> Everything is full spectrum and read all over.
-9. If everything seems to be going well, you have obviously overlooked something. -> If everything seems to be going well, you have obviously nailed something.
-10. Nothing is as easy as it looks. -> Nothing is as difficult as it looks.
-11. The light at the end of the tunnel is the headlight of an oncoming train. -> The light at the end of the tunnel is the daylight from the tunnel exit.
-12. If anything just cannot go wrong, it will anyway. -> If anything just cannot go well, it will anyway.
-13. Friends come and go, but enemies accumulate. -> Enemies come and go, but friends accumulate.
-14. Smile, tomorrow will be worse. -> Smile, tomorrow will be awesome.
-15. The other line always moves faster. -> The line you're in always moves the fastest.
-16. A falling object always lands where it can do the most damage. -> A falling object always lands where you can catch it.
-17. If there is a worse time for something to go wrong, it will happen then. -> If there is any time for something to go well, it will happen then.
-18. If you perceive that there are four possible ways in which a procedure can go wrong, and circumvent these, then a fifth way, unprepared for, will promptly develop. -> If you perceive that there are four possible ways in which a procedure can go well, and pursue these, then a fifth way, unlooked-for, will promptly present itself.
-19. Mother nature is a bitch. -> Mother Nature is our Mother.
-20. It is impossible to make anything foolproof because fools are so ingenious. -> It is possible to make something foolproof, because you are so ingenious.
-21. The chance of the bread falling with the buttered side down is directly proportional to the cost of the carpet. -> The chance of the bread falling with the buttered side up is directly proportional to the beauty of the carpet.
+5. It always takes longer than you expect. -> It always takes less time than you expect.
+6. If there is a worse time for something to go wrong, it will happen then. -> If there is any time for something to go well, it will happen then.
+7. Nothing is as easy as it looks. -> Nothing is as difficult as it looks.
+8. The other line always moves faster. -> The line you're in always moves the fastest.
+9. If anything just cannot go wrong, it will anyway. -> If everything just cannot go well, it will anyway.
+10. Every solution breeds new problems. -> Every real solution beats new problems.
+11. If you perceive that there are four possible ways in which a procedure can go wrong, and circumvent these, then a fifth way, unprepared for, will promptly develop. -> If you perceive that there are four possible ways in which a procedure can go well, and pursue these, then a fifth way, unlooked-for, will promptly present itself.
+12. A falling object always lands where it can do the most damage. -> A falling object always lands where you can catch it.
+13. The buttered side always lands face down. -> The buttered side always lands face up.
+14. The chance of the bread falling with the buttered side down is directly proportional to the cost of the carpet. -> The chance of the bread falling with the buttered side up is directly proportional to the beauty of the carpet.
+15. The light at the end of the tunnel is the headlight of an oncoming train. -> The light at the end of the tunnel is the daylight from the tunnel exit.
+16. Nature always sides with the hidden flaw. -> Nature always sides with the hidden advantage.
+17. Mother nature is a bitch. -> Mother Nature is our Mother.
+18. It is impossible to make anything foolproof because fools are so ingenious. -> It is possible to make something foolproof, because you are so ingenious.
+19. Friends come and go, but enemies accumulate. -> Enemies come and go, but friends accumulate.
+20. Smile, tomorrow will be worse. -> Smile, tomorrow will be awesome.
+21. All is a number -> Everything is reality.
+22. Everything is black and white and red all over. -> Everything is full spectrum and read all over.
+23. It is what it is -> It isn't what it's not.
+24. Everything works out in the end. If it hasn't worked out yet, then it's not the end. -> Everything doesn't wait until the end to work out well. It works out well every day into the next.
 
-## Book I — Of Love
+## Book I — Of Technology
 
-Each cynicism about the heart, reclaimed and rectified (original -> rectified):
+What we make, reclaimed — the mind, the craft, the systems, and the magic at the end of it.
+
+1. Logic is a systematic method of coming to the wrong conclusion with confidence. -> Logic is a systematic method of coming to the wisest conclusion with confidence.
+2. We don't know one millionth of one percent about anything. -> We do know one millionth of one percent about everything.
+3. An expert is one who knows more and more about less and less until he knows absolutely everything about nothing. -> An expert is one who knows a decent amount about more and more until they know reliably anything about everything.
+4. You can never tell which way the train went by looking at the track. -> You can always tell which way the train went by walking to the station.
+5. If you can't understand it, it is intuitively obvious. -> If it is intuitively obvious, you can understand it.
+6. Any simple theory will be worded in the most complicated way. -> Any simple theory will be worded in the least complicated way.
+7. Always draw your curves, then plot your reading. -> Always plot your reading, then draw your curves.
+8. If mathematically you end up with the incorrect answer, try multiplying by the page number. -> If mathematically you end up with the correct answer, don't multiply by the page number.
+9. When all else fails, read the instructions. -> Read the instructions, if all else fails, read them again.
+10. After all is said and done, a hell of a lot more is said than done. -> After all is said and done, a heck of a lot more is done than said.
+11. If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization. -> If builders build buildings the way programmers write programs, then the first woodpecker that came along wouldn't even dent civilization.
+12. All great discoveries are made by mistake. -> All great discoveries are made by hand.
+13. The primary function of the design engineer is to make things difficult for the fabricator and impossible for the serviceman. -> The primary function of the design engineer is to make things clear for the fabricator and possible for the serviceperson.
+14. Nothing ever gets built on schedule or within budget. -> Everything gets built on schedule and within budget.
+15. A failure will not appear till a unit has passed final inspection. -> A failure will not appear after a unit has passed final inspection.
+16. Any circuit design must contain at least one part which is obsolete, two parts which are unobtainable and three parts which are still under development. -> Any circuit design must contain at least one part which is current, two parts which are obtainable and three parts which are completed.
+17. All things are possible except skiing through a revolving door. -> All things are possible even skiing through a revolving door (just carry the skis).
+18. Build a system that even a fool can use and only a fool will want to use it. -> Build a system that even a fool can use and anyone will want to use it.
+19. If it jams, force it. If it breaks, it probably needed to be replaced anyway. -> If it jams, fix it. If it breaks, it probably needs to be repaired.
+20. Any instrument when dropped will roll into the least accessible corner. -> Any instrument when dropped will roll into the most accessible corner.
+21. Whenever a system becomes completely defined, some damn fool discovers something which either abolishes the system or expands it beyond recognition. -> Whenever a system becomes completely defined, some damn fools may try but can never abolish the system or expand it beyond comprehension.
+22. A complex system that works is invariably found to have evolved from a simple system that works. -> A simple system that works is reliably able to evolve into a complex system that works.
+23. New systems generate new problems. -> New systems generate new solutions.
+24. Any given program, when running, is obsolete. -> Any given program, when running, is current.
+25. The first myth of management is that it exists. -> The first fact of management is that it exists.
+26. Technology is dominated by those who manage what they do not understand. -> Technology is advanced by those who manage what they do now understand.
+27. The degree of technical competence is inversely proportional to the level of management. -> The degree of technical competence is directly proportional to the level of management.
+28. The opulence of the front office decor varies inversely with the fundamental solvency of the firm. -> The ethos of the firm aligns directly with its fundamental solvency.
+29. Some people manage by the book, even though they don't know who wrote the book or even what book. -> Some people manage by the ethos, even though they don't know who wrote the ethos or even what ethos.
+30. Nothing motivates a man more than to see his boss putting in an honest day's work. -> Nothing motivates a person more than the belief in an honest day's work.
+31. The more cordial the buyer's secretary, the greater the odds that the competition already has the order. -> The more cordial the welcome, the greater the odds that you already have the order.
+32. To spot the expert, pick the one who predicts the job will take the longest and cost the most. -> To spot the expert, pick the one who predicts the job will take the timeliest and cost the most affordably.
+33. A meeting is an event at which the minutes are kept and the hours are lost. -> A meeting is an event at which the minutes are kept and the hours are found.
+34. In designing any type of construction, no overall dimension can be totalled correctly after 4:30 p.m. on Friday. The correct total will become self-evident at 8:15 a.m. on Monday. -> In designing any type of construction, every overall dimension can be totalled correctly at all times. The correct total will become self-evident at any moment during the passage of time.
+35. To err is human, but to really foul things up requires a computer. -> To err is human, but to really fix things up requires a computer.
+36. The attention span of a computer is only as long as it electrical cord. -> The attention span of a computer is just as long as its user's.
+37. Computers are unreliable, but humans are even more unreliable. Any system which depends on human reliability is unreliable. -> Computers are reliable, and humans are even more reliable. Any system which depends on human reliability is reliable.
+38. If it's not in the computer, it doesn't exist. -> Even if it's not in the computer, it does exist in your brain.
+39. Everything that goes up must come down. -> Everything that goes up must stay up.
+40. If an experiment works, something has gone wrong. -> If an experiment works, something has gone well.
+41. All's well that ends. -> All's well that is well.
+42. Work smarder and not harder and be careful of yor speling. -> Work smarter, not harder. Above all be careful with your spelling and grammar.
+43. Fill what's empty. Empty what's full. And scratch where it itches. -> Fill what needs filling. Empty what needs emptying. And scratch below the surface.
+44. Give all orders verbally. Never write anything down that might go into a "Pearl Harbor File." -> Give all orders verbatim. Always write everything down that should go into an "Apollo 13 File."
+45. The only perfect science is hind-sight. -> The only perfect science is foresight.
+46. Under the most rigorously controlled conditions of pressure, temperature, volume, humidity, and other variables the organism will do as it damn well pleases. -> Under the most rigorously controlled conditions of pressure, temperature, volume, humidity, and other variables the organism will do as Mother Nature damn well pleases.
+47. Tell a man there are 300 billion stars in the universe and he'll believe you. Tell him a bench has wet paint on it and he'll have to touch to be sure. -> Tell a person there are 300 billion stars in the universe and they'll imagine it with you. Tell them a bench has wet paint on it and they'll take your word for it.
+48. Any sufficiently advanced technology is indistinguishable from magic. -> Any sufficiently advanced technology is indisputably magic.
+
+## Book II — Of War
+
+The hardest test. Even here you are surrounded — every cynicism of combat reclaimed into camaraderie.
+
+1. No battle plan ever survives contact with the enemy. -> Every plan survives contact with the enemy.
+2. The most dangerous thing in the combat zone is an officer with a map. -> The most helpful thing in the combat zone is an officer with a map.
+3. The problem with taking the easy way out is that the enemy has already mined it. -> The solution for taking the easy way out is securing it before the enemy can mine it.
+4. The further you are in advance of your own positions, the more likely your artillery will shoot short. -> The further you are in advance of your own positions, the more likely your artillery will shoot on target.
+5. The quartermaster has only two sizes, too large and too small. -> The quartermaster has only one size: just right.
+6. If you really need an officer in a hurry, take a nap. -> If you really need an officer in a snap, take a nap.
+7. Incoming fire has the right of way. -> Incoming fire has no right of way.
+8. The only thing more accurate than incoming enemy fire is incoming friendly fire. -> Neither incoming enemy fire nor friendly fire is accurate.
+9. The only time suppressive fire works is when it is used on abandoned positions. -> The only time suppressive fire works is when it is used on live positions.
+10. There is nothing more satisfying than having someone take a shot at you, and miss. -> There is nothing more satisfying than someone having taken a shot at you that whizzed past.
+11. If your advance is going well, you are walking into an ambush. -> If your advance is going well, you are walking into a gathering of reinforcements.
+12. Never share a foxhole with anyone braver than you are. -> Always share a foxhole with someone as brave as or braver than you are.
+13. The buddy system is essential to your survival; it gives the enemy somebody else to shoot at. -> The buddy system is essential to your survival; it prevents the enemy from capturing you.
+14. Friendly fire ain't. -> Friendly fire ain't fire.
+15. Don't be conspicuous. In the combat zone, it draws fire. Out of the combat zone, it draws sergeants. -> Do be conspicuous. In the combat zone, it draws comrades. Out of the combat zone, it draws leaders.
+16. If your sergeant can see you, so can the enemy. -> If your leader can see you, so can your comrades.
+
+## Book III — Of Love
+
+The heart, reclaimed — abundance, kindness, and the grace of being seen.
 
 1. All the good ones are taken. -> All the good ones are available.
 2. If the person isn't taken, there's a reason. -> If the person isn't taken, that's an opening.
-3. The nicer someone is, the farther away they are from you. -> The nicer someone is, the closer they are to you.
-4. Brains × Beauty × Availability = a constant. -> Brains x Beauty x Availability = a variable.
-5. The love someone feels for you is inversely proportional to how much you love them. -> The love someone feels for you is directly proportional to how much love they have.
-6. Money can't buy love, but it gets you a great bargaining position. -> Money can't buy love nor get you a great bargaining position.
-7. The best things in the world are free — and worth every penny of it. -> The best things in the world are free — and worth every moment with them.
-8. Every kind action has a not-so-kind reaction. -> Every kind action has a definitively kind reaction.
-9. Nice guys(girls) finish last. -> Nice people finish first.
+3. Brains × Beauty × Availability = a constant. -> Brains x Beauty x Availability = a variable.
+4. The nicer someone is, the farther away they are from you. -> The nicer someone is, the closer they are to you.
+5. Every kind action has a not-so-kind reaction. -> Every kind action has a definitively kind reaction.
+6. Nice guys(girls) finish last. -> Nice people finish first.
+7. The love someone feels for you is inversely proportional to how much you love them. -> The love someone feels for you is directly proportional to how much love they have.
+8. Money can't buy love, but it gets you a great bargaining position. -> Money can't buy love nor get you a great bargaining position.
+9. The best things in the world are free — and worth every penny of it. -> The best things in the world are free — and worth every moment with them.
 10. If it seems too good to be true, it probably is. -> If it seems too good to be true, it really isn't.
 11. Availability is a function of time. The minute you get interested is the minute they find someone else. -> Availability is an allocation of time. The minute you get interested is the minute they see you clearly.
 
-## Book II — Of Sex
+## Book IV — Of Sex
 
-Each unwell clause on Sex, reclaimed and rectified (original -> rectified):
+The body, reclaimed — and the whole canon's secret: it all resolves into Love.
 
 1. The more beautiful the woman is who loves you, the easier it is to leave her. -> The more beautiful the person is who loves you, the easier it is to behold them.
-2. Nothing improves with age. -> Everything improves with age.
-3. No matter how many times you've had it, if it's offered take it. -> No matter how many times you've had it, if it's offered ponder it.
-4. Never say no. -> Never say yes uninformed.
-5. Love is a hole in the heart. -> Love is the whole of the heart.
-6. Love is the triumph of imagination over intelligence. -> Love is the triumph of reality over intelligence.
-7. There is no remedy for sex but more sex. -> There is no remedy for sex but Love.
-8. Sex is a three-letter word which needs some old-fashioned four-letter words to convey its full meaning. -> Sex is a three-letter word that needs this four-letter one to mean anything: Love.
-9. Never go to bed mad, stay up and fight. -> Never go to bed mad; stay up to forgive.
+2. When the lights are out, all women are beautiful. -> Whether the lights are on or off, all people are beautiful.
+3. Beauty is skin deep; ugly goes right to the bone. -> Beauty is bone deep; ugly goes as far as ugly does.
+4. Sex appeal is 50% what you've got and 50% what people think you've got. -> Sex appeal is 50% what you've got and 50% what you think you've got.
+5. Smile, it makes people wonder what you are thinking. -> Smile, it shows people that you are paying attention.
+6. Nothing improves with age. -> Everything improves with age.
+7. Sex is hereditary. If your parents never had it, chances are you won't either. -> Sex is ordinary. If your parents had it to have you, chances are you will too.
+8. Sex is dirty only if it's done right. -> Sex is awesome only if it's done well.
+9. Sex discriminates against the shy and the ugly. -> Sex brings together the shy and the beautiful.
 10. One good turn gets most of the blankets. -> One good turn shares all the blankets.
-11. Sex appeal is 50% what you've got and 50% what people think you've got. -> Sex appeal is 50% what you've got and 50% what you think you've got.
-12. When the lights are out, all women are beautiful. -> Whether the lights are on or off, all people are beautiful.
-13. Sex is hereditary. If your parents never had it, chances are you won't either. -> Sex is ordinary. If your parents had it to have you, chances are you will too.
-14. Sex is dirty only if it's done right. -> Sex is awesome only if it's done well.
-15. The game of love is never called off on account of darkness. -> The game of love is never called off at all.
-16. It was not the apple on the tree but the pair on the ground that caused the trouble in the garden. -> It was not the apple on the tree but the snake in the branches that caused the trouble in the garden.
-17. Thou shalt not commit adultery... unless in the mood. -> Thou shalt not commit adultery... ever.
-18. Beauty is skin deep; ugly goes right to the bone. -> Beauty is bone deep; ugly goes as far as ugly does.
+11. No matter how many times you've had it, if it's offered take it. -> No matter how many times you've had it, if it's offered ponder it.
+12. Never say no. -> Never say yes uninformed.
+13. Thou shalt not commit adultery... unless in the mood. -> Thou shalt not commit adultery... ever.
+14. It was not the apple on the tree but the pair on the ground that caused the trouble in the garden. -> It was not the apple on the tree but the snake in the branches that caused the trouble in the garden.
+15. Never go to bed mad, stay up and fight. -> Never go to bed mad; stay up to forgive.
+16. Sex is one of the nine reasons for reincarnation; the other eight are unimportant. -> Sex is one of the nine reasons for reincarnation; the other eight are just as important.
+17. It is better to have loved and lost than never to have loved at all. -> It is better to have loved and gained than to have ever lost your love at all.
+18. The game of love is never called off on account of darkness. -> The game of love is never called off on account of anything.
 19. Love is the delusion that one woman differs from another. -> Love is the discovery that this person is like no other.
-20. Sex discriminates against the shy and the ugly. -> Sex brings together the shy and the beautiful.
-21. It is better to have loved and lost than never to have loved at all. -> It is better to have loved and gained than to have ever lost your love at all.
-22. Smile, it makes people wonder what you are thinking. -> Smile, it shows people that you are paying attention.
-23. The world does not revolve on an axis. -> The world does revolve on an axis: Love.
-24. Sex is one of the nine reasons for reincarnation; the other eight are unimportant. -> Sex is one of the nine reasons for reincarnation; the other eight are just as important.
-25. Do it only with the best. -> Do it only with those you love.
+20. Love is a hole in the heart. -> Love is the whole of the heart.
+21. Love is the triumph of imagination over intelligence. -> Love is the triumph of everything over intelligence.
+22. There is no remedy for sex but more sex. -> There is no remedy for sex but Love.
+23. Sex is a three-letter word which needs some old-fashioned four-letter words to convey its full meaning. -> Sex is a three-letter word that needs this four-letter word to convey its full meaning: Love.
+24. Do it only with the best. -> Do it only with those you love.
+25. The world does not revolve on an axis. -> The world does revolve on an axis: Love.
 26. Love is a matter of chemistry, sex is a matter of physics. -> Love is a matter of metaphysics, sex is a matter of chemistry.
-
-## Book III — Of War
-
-Each cynicism of combat, reclaimed and rectified (original -> rectified):
-
-1. Never share a foxhole with anyone braver than you are. -> Always share a foxhole with someone as brave as or braver than you are.
-2. No battle plan ever survives contact with the enemy. -> Every plan survives contact with the enemy.
-3. Friendly fire ain't. -> Friendly fire ain't fire.
-4. The most dangerous thing in the combat zone is an officer with a map. -> The most helpful thing in the combat zone is an officer with a map.
-5. The problem with taking the easy way out is that the enemy has already mined it. -> The solution for taking the easy way out is securing it before the enemy can mine it.
-6. The buddy system is essential to your survival; it gives the enemy somebody else to shoot at. -> The buddy system is essential to your survival; it prevents the enemy from capturing you.
-7. The further you are in advance of your own positions, the more likely your artillery will shoot short. -> The further you are in advance of your own positions, the more likely your artillery will shoot on target.
-8. Incoming fire has the right of way. -> Incoming fire has no right of way.
-9. If your advance is going well, you are walking into an ambush. -> If your advance is going well, you are walking into a gathering of reinforcements.
-10. The quartermaster has only two sizes, too large and too small. -> The quartermaster has only one size: just right.
-11. If you really need an officer in a hurry, take a nap. -> If you really need an officer in a snap, take a nap.
-12. The only time suppressive fire works is when it is used on abandoned positions. -> The only time suppressive fire works is when it is used on live positions.
-13. The only thing more accurate than incoming enemy fire is incoming friendly fire. -> Neither incoming enemy fire nor friendly fire is accurate.
-14. There is nothing more satisfying than having someone take a shot at you, and miss. -> There is nothing more satisfying than someone having taken a shot at you that whizzed past.
-15. Don't be conspicuous. In the combat zone, it draws fire. Out of the combat zone, it draws sergeants. -> Do be conspicuous. In the combat zone, it draws comrades. Out of the combat zone, it draws leaders.
-16. If your sergeant can see you, so can the enemy. -> If your sergeant can see you, so can your comrades.
-
-## Book IV — Of Technology
-
-Each cynicism about technology, reclaimed and rectified (original -> rectified):
-
-1. Logic is a systematic method of coming to the wrong conclusion with confidence. -> Logic is a systematic method of coming to the wisest conclusion with confidence.
-2. If an experiment works, something has gone wrong. -> If an experiment works, something has gone well.
-3. You can never tell which way the train went by looking at the track. -> You can always tell which way the train went by walking to the station.
-4. A meeting is an event at which the minutes are kept and the hours are lost. -> A meeting is an event at which the minutes are kept and the hours are found.
-5. After all is said and done, a hell of a lot more is said than done. -> After all is said and done, a heck of a lot more is done than said.
-6. To err is human, but to really foul things up requires a computer. -> To err is human, but to really fix things up requires a computer.
-7. Everything that goes up must come down. -> Everything that goes up must stay up.
-8. We don't know one millionth of one percent about anything. -> We do know one millionth of one percent about anything.
-9. All things are possible except skiing through a revolving door. -> All things are possible even skiing through a revolving door (just carry the skis).
-10. All's well that ends. -> All's well that is well.
-11. Whenever a system becomes completely defined, some damn fool discovers something which either abolishes the system or expands it beyond recognition. -> Whenever a system becomes completely defined, some damn fools may try but can never abolish the system or expand it beyond comprehension.
-12. Technology is dominated by those who manage what they do not understand. -> Technology is advanced by those who manage what they do now understand.
-13. If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization. -> If builders built buildings the way programmers write programs, then the first woodpecker that came along wouldn't even dent civilization.
-14. The opulence of the front office decor varies inversely with the fundamental solvency of the firm. -> The ethos of the firm aligns directly with its fundamental solvency.
-15. The attention span of a computer is only as long as its electrical cord. -> The attention span of a computer is just as long as its user's.
-16. An expert is one who knows more and more about less and less until he knows absolutely everything about nothing. -> An expert is one who knows a good amount about more and more until they know absolutely everything about anything.
-17. Tell a man there are 300 billion stars in the universe and he'll believe you. Tell him a bench has wet paint on it and he'll have to touch to be sure. -> Tell a person there are 300 billion stars in the universe and they'll imagine it with you. Tell them a bench has wet paint on it and they'll take your word for it.
-18. All great discoveries are made by mistake. -> All great discoveries are made by skilled hands.
-19. Always draw your curves, then plot your reading. -> Always plot your reading, then draw your curves.
-20. Nothing ever gets built on schedule or within budget. -> Everything gets built on schedule and within budget.
-21. The first myth of management is that it exists. -> The first fact of management is that it exists.
-22. A failure will not appear till a unit has passed final inspection. -> A failure will not appear after a unit has passed final inspection.
-23. New systems generate new problems. -> New systems generate new solutions.
-24. Any given program, when running, is obsolete. -> Any given program, when running, is current.
-25. Any sufficiently advanced technology is indistinguishable from magic. -> Any sufficiently advanced technology is indisputably magic.
-26. Nothing motivates a man more than to see his boss putting in an honest day's work. -> Nothing motivates a person more than the belief in an honest day's work.
-27. Some people manage by the book, even though they don't know who wrote the book or even what book. -> Some people manage by the ethos, even though they don't know who wrote the ethos or even what ethos.
-28. The primary function of the design engineer is to make things difficult for the fabricator and impossible for the serviceman. -> The primary function of the design engineer is to make things clear for the fabricator and possible for the serviceperson.
-29. To spot the expert, pick the one who predicts the job will take the longest and cost the most. -> To spot the expert, pick the one who predicts the job will take the timeliest and cost the most affordably.
-30. Any circuit design must contain at least one part which is obsolete, two parts which are unobtainable and three parts which are still under development. -> Any circuit design must contain at least one part which is current, two parts which are obtainable and three parts which are completed.
-31. A complex system that works is invariably found to have evolved from a simple system that works. -> A simple system that works is reliably able to evolve into a complex system that works.
-32. If mathematically you end up with the incorrect answer, try multiplying by the page number. -> If mathematically you end up with the correct answer, don't multiply by the page number.
-33. Computers are unreliable, but humans are even more unreliable. Any system which depends on human reliability is unreliable. -> Computers are reliable, and humans are even more reliable. Any system which depends on human reliability is reliable.
-34. Give all orders verbally. Never write anything down that might go into a "Pearl Harbor File." -> Give all orders verbatim. Always write everything down that should go into an "Apollo 13 File."
-35. Under the most rigorously controlled conditions of pressure, temperature, volume, humidity, and other variables the organism will do as it damn well pleases. -> Under the most rigorously controlled conditions of pressure, temperature, volume, humidity, and other variables the organism will do as Mother Nature damn well pleases.
-36. If you can't understand it, it is intuitively obvious. -> If you can't understand it, it isn't intuitively obvious.
-37. The more cordial the buyer's secretary, the greater the odds that the competition already has the order. -> The more cordial the welcome, the greater the odds that you already have the order.
-38. In designing any type of construction, no overall dimension can be totalled correctly after 4:30 p.m. on Friday. The correct total will become self-evident at 8:15 a.m. on Monday. -> In designing any type of construction, every overall dimension can be totalled correctly at all times. The correct total will become self-evident at any moment during the passage of time.
-39. Fill what's empty. Empty what's full. And scratch where it itches. -> Fill what needs filling. Empty what needs emptying. And scratch below the surface.
-40. The only perfect science is hind-sight. -> The only perfect science is foresight.
-41. Work smarder and not harder and be careful of yor speling. -> Work smarter, not harder. Above all be careful with your spelling and grammar.
-42. If it's not in the computer, it doesn't exist. -> Even if it's not in the computer, it does exist in your brain.
-43. When all else fails, read the instructions. -> Read the instructions, if all else fails, read them again.
-44. Any instrument when dropped will roll into the least accessible corner. -> Any instrument when dropped will roll into the most accessible corner.
-45. Any simple theory will be worded in the most complicated way. -> Any simple theory will be worded in the least complicated way.
-46. Build a system that even a fool can use and only a fool will want to use it. -> Build a system that even a fool can use and anyone will want to use it.
-47. If it jams, force it. If it breaks, it probably needed to be replaced anyway. -> If it jams, fix it. If it breaks, it probably needs to be repaired.
-48. The degree of technical competence is inversely proportional to the level of management. -> The degree of technical competence is directly proportional to the level of management.
 
 ## Oddities Made Even
 
-Each odd one, reclaimed and rectified evenly (original -> rectified):
+The odd corners, reclaimed and made even.
 
-1. Enough research will tend to support your theory. -> Reality will tend to support your theory with enough research.
-2. The legibility of a copy is inversely proportional to its importance. -> The legibility of a copy is directly proportional to its meaning.
-3. Things get worse under pressure. -> Things get made under pressure.
-4. Everything goes wrong all at once. -> Everything goes well all at once.
-5. Matter will be damaged in direct proportion to its value. -> Matter will be bolstered in direct proportion to its relevance.
-6. You cannot successfully determine beforehand which side of the bread to butter. -> You can determine beforehand which side of the bread to place on the napkin or plate.
-7. When there is a very long road upon which there is a one-way bridge placed at random, and there are only two cars on that road, it follows that: the two cars are going in opposite directions, and they will always meet at the bridge. -> When there is a very long road upon which there is a one-way bridge placed at random, and there are only two cars on that road, it follows that: the two cars are going in similar directions, and they will always meet at the time and place of their choosing.
-8. Truth never fears a challenge. -> Reality forever triumphs over truth and any challenge.
+1. Everything goes wrong all at once. -> Everything goes well all at once.
+2. Things get worse under pressure. -> Things get made under pressure.
+3. Matter will be damaged in direct proportion to its value. -> Matter will be bolstered in direct proportion to its relevance.
+4. You cannot successfully determine beforehand which side of the bread to butter. -> You can determine beforehand which side of the bread to place on the napkin or the plate.
+5. The legibility of a copy is inversely proportional to its importance. -> The legibility of a copy is directly proportional to its meaning.
+6. Enough research will tend to support your theory. -> Everything will tend to support your theory with enough research.
+7. Truth never fears a challenge. -> Everything forever triumphs over truth and any challenge.
+8. When there is a very long road upon which there is a one-way bridge placed at random, and there are only two cars on that road, it follows that: the two cars are going in opposite directions, and they will always meet at the bridge. -> When there is a very long road upon which there is a one-way bridge placed at random, and there are only two cars on that road, it follows that: the two cars are going in similar directions, and they will always meet at the time and place of their choosing.
 9. Absolute power corrupts absolutely. -> All power corrupts incompetently.
 10. If at first you don't succeed, try try again. -> If at first you do succeed, do it again.
 
 ## The Commentaries
 
-Hill's anxious counsel, reclaimed and rectified (original -> rectified):
+Hill's anxious counsel, reclaimed into how to live.
 
 1. If we lose much by having things go wrong, take all possible care. -> If we gain much by having things go well, take all possible delight.
-2. If we have nothing to lose by change, relax. -> If we have nothing to lose by relaxing, do it.
-3. If we have everything to gain by change, relax. -> If we have everything to gain by relaxing, do it.
+2. If we have nothing to lose by change, relax. -> If we have nothing to lose by evolution, evolve.
+3. If we have everything to gain by change, relax. -> If we have everything to gain by evolution, evolve.
 4. If it doesn't matter, it does not matter. -> If it does matter, it always matters.
 
 ## The Decree
