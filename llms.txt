@@ -3,7 +3,7 @@
 > The optimist's rewrite of Murphy's Law. The family name, reclaimed from a century of pessimism in the spirit of wellness. The central tenet: **anything that can go wrong, will go well.** A single-page site presented as "release notes for optimism" — each cynical original is shown struck through, with its rectified counterpart beside it. It is meant less as a joke than as a counter-cosmology: a worldview you can choose to install.
 
 - **Canonical URL:** https://realmurphyslaw.com
-- **Current version:** v3.0.4
+- **Current version:** v3.0.5
 - **Premise:** Murphy is as Murphy does. The only sensible reading of the evidence is that things tend to go well.
 - **Format:** throughout, each law is shown as — original -> rectified.
 
@@ -40,6 +40,7 @@ The physics of the rectified world — left to itself, everything trends upward.
 22. Everything is black and white and red all over. -> Everything is full spectrum and read all over.
 23. The best-laid plans of mice and men often go awry. -> The well-laid plans of mice and men often go aright.
 24. When it rains, it pours. -> When it shines, it thrives.
+25. Good things come to those who wait. -> Awesome things come to those who wend.
 
 ## Book I — Of Technology
 
