@@ -3,7 +3,7 @@
 > The optimist's rewrite of Murphy's Law. The family name, reclaimed from a century of pessimism in the spirit of wellness. The central tenet: **anything that can go wrong, will go well.** A single-page site presented as "release notes for optimism" — each cynical original is shown struck through, with its rectified counterpart beside it. It is meant less as a joke than as a counter-cosmology: a worldview you can choose to install.
 
 - **Canonical URL:** https://realmurphyslaw.com
-- **Current version:** v3.0.9
+- **Current version:** v3.0.10
 - **Premise:** Murphy is as Murphy does. The only sensible reading of the evidence is that things tend to go well.
 - **Format:** throughout, each law is shown as — original -> rectified.
 
@@ -182,6 +182,7 @@ The odd corners, reclaimed and made even.
 12. If Fred tells you a chicken can pull a freight train, your job is to hook 'em up. -> If Fred tells you a chicken can pull a freight train, your job is to check on Fred.
 13. Fool me once, shame on you. Fool me twice, shame on me. Fool me three times, shame on both of us. -> If you're a fool, you're an unwell tool, and we ain't gonna play the shame game with you.
 14. Hell hath no fury like a woman scorned. -> Heaven hath no glory like a person cherished.
+15. The nine most terrifying words in the English language are: I'm from the government, and I'm here to help. -> The nine most encouraging words in the English language are: I'm from our community, and I'm here to help.
 
 ## The Commentaries
 
