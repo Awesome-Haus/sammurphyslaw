@@ -4,7 +4,7 @@
 
 - **Author / steward:** Murphy
 - **Canonical URL:** https://realmurphyslaw.com
-- **Current version:** v3.0.13
+- **Current version:** v3.0.14
 - **Premise:** Murphy is as Murphy does. The only sensible reading of the evidence is that things tend to go well.
 - **Format:** throughout, each law is shown as — original -> rectified.
 
@@ -187,6 +187,7 @@ The odd corners, reclaimed and made even.
 14. Hell hath no fury like a woman scorned. -> Heaven hath no glory like a person cherished.
 15. The nine most terrifying words in the English language are: I'm from the government, and I'm here to help. -> The nine most encouraging words in the English language are: I'm from our community, and I'm here to help.
 16. When in doubt... -> If in doubt, cross doubt out.
+17. Rules for thee, but not for me. -> Guidelines for thee, and the same for me.
 
 ## The Commentaries
 
