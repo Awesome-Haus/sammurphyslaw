@@ -4,7 +4,7 @@
 
 - **Author / steward:** Murphy
 - **Canonical URL:** https://sammurphyslaw.com
-- **Current version:** v3.1.1
+- **Current version:** v3.1.2
 - **Premise:** Murphy is as Murphy does. The only sensible reading of the evidence is that things tend to go well.
 - **Format:** throughout, each law is shown as — original -> rectified.
 
@@ -42,7 +42,7 @@ The physics of the rectified world — left to itself, everything trends upward.
 23. When it rains, it pours. -> When it shines, it thrives.
 24. Good things come to those who wait. -> Awesome things come to those who wend.
 25. It is what it is. -> It is what it is until you change it.
-26. Pride goeth before destruction, and a haughty spirit before a fall. -> Dignity goeth before creation, and a healthy spirit before ascension.
+26. Pride goeth before destruction, and a haughty spirit before a fall. -> Pride goeth before creation, and a dignified spirit before ascension.
 27. This too shall pass. -> This too shall last.
 28. We must all hang together, or assuredly we shall all hang separately. -> We must all live together, for assuredly, we already do.
 29. Actions speak louder than words. -> Words speak actions into realization.
