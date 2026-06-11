@@ -429,13 +429,19 @@ a { color: inherit; }
 }
 
 .law__caret {
-  display: inline-block;
+  /* zero-width inline anchor: cannot wrap below the law on its own. The
+     blinking bar is out-of-flow, glued to the final word at every width. */
+  position: relative;
+  opacity: 0;
+}
+.law__caret::after {
+  content: "";
+  position: absolute;
+  left: 0.1em;
+  bottom: -0.06em;
   width: 2px;
   height: 0.9em;
   background: var(--sun-deep);
-  margin-left: 0.1em;
-  vertical-align: -0.06em;
-  opacity: 0;
 }
 .law.in .law__caret {
   animation: blink 0.85s steps(1) 1.3s 3, fadeCaret 0.2s linear 4s forwards;
